@@ -1,0 +1,40 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434388376081">
+  <folder name="css">
+    <file name="site_global.css" crc="4115560257"/>
+    <file name="master_a-master.css" crc="224192261" ref="index"/>
+    <file name="index.css" crc="4160212893" ref="index"/>
+    <file name="iefonts_index.css" crc="4020164423" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="game-changer.png" crc="3941549971" ref="index"/>
+    <file name="maximise-talent.png" crc="3825326640" ref="index"/>
+    <file name="when.png" crc="309191508" ref="index"/>
+    <file name="how.png" crc="326627389" ref="index"/>
+    <file name="icon-top.png" crc="116601878" ref="index"/>
+    <file name="header-image.jpg" crc="4050715568" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="urbane-logo-circle.png" crc="4237644353" ref="index"/>
+    <file name="phone-blue.png" crc="4066660562" ref="index"/>
+    <file name="game-changer-white.png" crc="92405958" ref="index"/>
+    <file name="phone-pink-2.png" crc="47231708" ref="index"/>
+    <file name="talent-white.png" crc="523364881" ref="index"/>
+    <file name="when-white.png" crc="239344789" ref="index"/>
+    <file name="urbane-web-report-tablet-2.png" crc="4108674643" ref="index"/>
+    <file name="phone-purple.png" crc="188489804" ref="index"/>
+    <file name="how-white.png" crc="4147243728" ref="index"/>
+    <file name="fb.png" crc="3872473389" ref="index"/>
+    <file name="twitter.png" crc="4165568725" ref="index"/>
+    <file name="urbane-logo-circle-white.png" crc="208486733" ref="index"/>
+  </folder>
+  <file name="index.html" crc="130464804" mt="1434388275446" redirect="true"/>
+</manifest>
